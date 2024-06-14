@@ -16,8 +16,11 @@ This project offers an innovative solution for analyzing and extracting insights
 ## Dependencies:
 
 **Gemini Pro API:** For advanced natural language processing and generation.
+
 **LangChain:** Facilitates the integration of LLMs into the application workflow.
+
 **Streamlit:** Powers the interactive web-based user interface.
+
 **PDF processing libraries:** For extracting and structuring content from PDF files.
 
 ## Use Cases:
